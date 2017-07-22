@@ -1,0 +1,22 @@
+{
+  "name": "tcalendar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tangshengfei/TCalendar.git"
+  },
+  "keywords": [
+    "calendar"
+  ],
+  "author": "tang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tangshengfei/TCalendar/issues"
+  },
+  "homepage": "https://github.com/tangshengfei/TCalendar#readme"
+}
